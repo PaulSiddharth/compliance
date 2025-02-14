@@ -1,6 +1,3 @@
-const URL = 'https://stripe.com/docs/treasury/marketing-treasury';
-const OPENAI_API_KEY  = "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"
-
 import puppeteer from 'puppeteer';
 
 export async function fetchDataAgainstUrl(url: string) {
