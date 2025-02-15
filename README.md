@@ -50,5 +50,5 @@ export CLAUDE_API_KEY=your_api_key_here
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or support, open an issue or contact [your email or GitHub profile].
+For any questions or support, open an issue or contact siddhartha.pl4@gmail.com or https://github.com/PaulSiddharth.
 
